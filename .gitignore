@@ -1,0 +1,5 @@
+#Ignore all temp. ed. files 
+*.pdf
+/tmp/*
+./pdf/*.*
+
