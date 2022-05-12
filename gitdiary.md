@@ -31,3 +31,6 @@ git push
 
 ## to render it accessible towards the others 
 
+# The git log command 
+
+hjernvnefn
