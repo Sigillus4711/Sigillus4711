@@ -1,0 +1,22 @@
+git clone https://repo.git
+
+git clone https://github.com/Sigillus4711
+
+#necessary to connect to git repository 
+
+git add gitdiary 
+
+#  File will be transferred 
+
+git status
+
+  # forgot maybe to check if it worked ? 
+
+git commit -m "Habe fertig!"
+
+to comment what changes took place 
+
+git push
+
+to render it accessible towards the others 
+
